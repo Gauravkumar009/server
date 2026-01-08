@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "it is a node server module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gauravkumar009/node.git"
+  },
+  "author": "Aman Shakya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gauravkumar009/node/issues"
+  },
+  "homepage": "https://github.com/Gauravkumar009/node#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
