@@ -5,7 +5,7 @@ const menuItemSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    price: {              // ✅ FIXED HERE
+    preice: {              // ✅ FIXED HERE
         type: Number,
         required: true
     },
